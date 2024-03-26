@@ -47,4 +47,7 @@ public class UserServiceTests
     }
     
     //dot Cover potem tests coverAll
+    
+    //najpierw nadpisac wszystkie testy
+    //potem zrobic refactor addusera
 }
