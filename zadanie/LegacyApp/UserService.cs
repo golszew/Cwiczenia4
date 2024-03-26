@@ -36,6 +36,8 @@ namespace LegacyApp
                 FirstName = firstName,
                 LastName = lastName
             };
+            
+            //wrzuc do usera
 
             if (client.Type == "VeryImportantClient")
             {
@@ -68,5 +70,7 @@ namespace LegacyApp
             UserDataAccess.AddUser(user);
             return true;
         }
+        
+        //dotad
     }
 }
